@@ -8,6 +8,8 @@ public class ArrayListImpl {
 //        arrayList is datastructures that uses array in backend
         List<String> fruits = new ArrayList<>();
 
+
+
         // Adding elements to the ArrayList
         fruits.add("Apple");
         fruits.add("Banana");
